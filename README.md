@@ -1,29 +1,35 @@
 <h1 align="center">Hi 👋, I'm Harsh Aghera</h1>
+
 <h3 align="center">
-AI Engineering Enthusiast • Full Stack Developer • DSA Learner • Hackathon Builder
+AI Engineering Enthusiast • Full Stack Developer • DSA Learner
 </h3>
 
 <p align="center">
-Building AI-powered applications that solve real-world problems.
+Building intelligent software that solves real-world problems.
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=AI+Engineering+Enthusiast;Full+Stack+Developer;Java+Developer;Daily+DSA+Learner;Hackathon+Builder;Building+Intelligent+Software" alt="Typing SVG" />
 </p>
 
 ---
 
 # 💫 About Me
 
-🔭 I'm currently working on **AI-powered Full Stack Applications, Daily DSA Practice, and Hackathon Projects**
-
-🤝 I'm looking to collaborate on **Open Source, AI, and Full Stack Development Projects**
-
-🧠 I'm currently exploring **Scalable AI Systems, Backend Architecture, and Production Deployment**
-
-🌱 I'm currently learning **AI Agents, LangGraph, MCP, RAG, System Design, and Cloud Technologies**
-
-💬 Ask me about **Java, DSA, React, Firebase, Node.js, Full Stack Development, and AI Projects**
-
-⚡ **Fun Fact:** I enjoy turning real-world problems into software solutions and believe every project teaches something new.
-
----
+```yaml
+role:        AI Engineering Enthusiast & Full Stack Developer
+focus:       Building AI-powered applications and solving real-world problems
+currently:   Daily DSA • Hackathons • Full Stack Projects
+learning:    AI Agents • LangGraph • MCP • RAG • System Design
+exploring:   Backend Architecture • Cloud Deployment • Scalable Systems
+ask_me_about: Java • DSA • React • Firebase • Node.js
+```
+| Project | Description |
+|---------|-------------|
+| 🤖 **Kairos** | AI-powered autonomous deadline execution agent that intelligently plans, prioritizes and adapts tasks. |
+| 📚 **Daily DSA** | Java-based DSA repository with clean solutions and detailed notes. |
+| 🌾 **GramSathi** | Government Scheme Recommendation Platform simplifying scheme discovery. |
+| 🎓 **Passmate** | Smart digital campus pass management system. |
 
 # 🚀 Featured Projects
 
@@ -91,6 +97,14 @@ A smart digital campus pass management system for students and administrators.
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Harshaghera111&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
+## 📈 Contribution Graph
+
+[![Harsh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Harshaghera111&theme=github-compact)](https://github.com/Harshaghera111)
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Harshaghera111/Harshaghera111/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
 
 # 🎯 2026 Goals
 
@@ -109,5 +123,12 @@ A smart digital campus pass management system for students and administrators.
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:agheraharsh2@gmail.com)
 
 ---
+---
 
-![](https://komarev.com/ghpvc/?username=Harshaghera111&style=flat-square)
+<p align="center">
+
+![](https://komarev.com/ghpvc/?username=Harshaghera111&style=for-the-badge)
+
+⭐️ From <a href="https://github.com/Harshaghera111">Harsh Aghera</a>
+
+</p>
