@@ -92,8 +92,7 @@ A smart digital campus pass management system for students and administrators.
 
 ![](https://github-readme-stats.shion.dev/api?username=Harshaghera111&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
-![](https://streak-stats.demolab.com/?user=Harshaghera111&theme=dark&hide_border=false)
-
+![](https://streak-stats.demolab.com/?user=Harshaghera111&theme=dark&hide_border=false&timezone=Asia%2FKolkata)
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Harshaghera111&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
